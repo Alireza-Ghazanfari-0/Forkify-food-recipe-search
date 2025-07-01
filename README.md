@@ -6,7 +6,8 @@ This project is a frontend-only, recipe search web app built with **HTML, CSS, B
 
 ➡️ **Project Repository:**  
 [https://github.com/Alireza-Ghazanfari-0/Forkify-food-recipe-search](https://github.com/Alireza-Ghazanfari-0/Forkify-food-recipe-search)
-
+***
+netlify web address: https://forkify-food-recipe-search.netlify.app/
 ---
 
 ## 🚀 Features
@@ -45,27 +46,26 @@ This project is a frontend-only, recipe search web app built with **HTML, CSS, B
 
     Navigate to the project folder:
 
-cd Forkify-food-recipe-search
+2. cd Forkify-food-recipe-search
 
-Install dependencies (requires Node.js & NPM):
+3. Install dependencies (requires Node.js & NPM):
 
-npm install
+4. npm install
 
-Start the development server:
+5. Start the development server:
 
-npm start
+6. npm start
 
-Open your browser at:
+7. Open your browser at:
 
     http://localhost:1234
-
-⚠️ Important for Users in Iran
+***
+## ⚠️ Important for Users in Iran
 
 Some API services may be restricted in Iran. Please use a proxy or VPN to ensure full functionality of the app.
-📁 Project Structure
+***
 
-
-💡 Project Background
+## 💡 Project Background
 
 The idea for this project comes from Jonas Schmedtmann's JavaScript learning course, with added features and personal improvements such as:
 
@@ -76,7 +76,8 @@ The idea for this project comes from Jonas Schmedtmann's JavaScript learning cou
 ✅ Adding responsive design with Bootstrap
 
 This project represents my first use of NPM, Node Modules, and several modern JavaScript concepts.
-🎯 Possible Future Improvements
+***
+## 🎯 Possible Future Improvements
 
     Add recipe bookmark/favorites system
 
@@ -87,17 +88,13 @@ This project represents my first use of NPM, Node Modules, and several modern Ja
     Dark mode support
 
     More advanced search filtering
-
+***
 📬 Contact
 
 For questions, suggestions, or feedback:
 Alireza Ghazanfari
 📧 alireza.ghazanfari@yahoo.com
-
 ***
-netlify web address: https://forkify-food-recipe-search.netlify.app/
-***
-
 📄 License
 
 This project is open-source and free to use for learning and educational purposes.
