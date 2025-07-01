@@ -93,6 +93,11 @@ This project represents my first use of NPM, Node Modules, and several modern Ja
 For questions, suggestions, or feedback:
 Alireza Ghazanfari
 📧 alireza.ghazanfari@yahoo.com
+
+***
+netlify web address: https://forkify-food-recipe-search.netlify.app/
+***
+
 📄 License
 
 This project is open-source and free to use for learning and educational purposes.
