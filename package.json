@@ -2,7 +2,6 @@
   "name": "project6_forkify",
   "version": "1.0.0",
   "description": "A web App for selecting food recipe",
-  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
