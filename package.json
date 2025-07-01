@@ -1,0 +1,21 @@
+{
+  "name": "project6_forkify",
+  "version": "1.0.0",
+  "description": "A web App for selecting food recipe",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Alireza Ghazanfari",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "core-js": "^3.30.2",
+    "regenerator-runtime": "^0.13.11",
+    "watchman": "^1.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}

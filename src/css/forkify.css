@@ -1,0 +1,15 @@
+.spinner {
+  text-align: center;
+  fill: purple;
+  padding: 5rem;
+  animation: rotate 2s infinite linear;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
